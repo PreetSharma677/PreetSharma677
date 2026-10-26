@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Preet Sharma 👋
 
-<!--
-**PreetSharma677/PreetSharma677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning Python and building small projects to practice.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Building one small Python project at a time
+- Practicing a little every day
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Python Practice](https://github.com/PreetSharma677/python-practice) - guessing games, rock paper scissors, file organizer
+- [Python Book Scraper](https://github.com/PreetSharma677/python-book-scraper) - scrapes book data from a website
+
+## Tech
+Python
